@@ -20,4 +20,4 @@ performance trends, distribution gaps, and expansion opportunities.
 [View Project →](https://github.com/mikeclinedesign/retail-product-performance-analysis)
 
 ### 🔗 Connect
-[Tableau Public](YOUR-TABLEAU-LINK) • [LinkedIn](YOUR-LINKEDIN-LINK)
+[Tableau Public](https://public.tableau.com/app/profile/michael.cline4297/vizzes) • [LinkedIn](https://www.linkedin.com/in/michael-cline-812538b9)
