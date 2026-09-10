@@ -11,7 +11,7 @@ Excel • SQL • PostgreSQL • Tableau
 Analyzed 4,000+ retail records to evaluate store and department
 performance, forecast future sales, and develop KPI reporting.
 
-[View Project →](YOUR-REPOSITORY-LINK)
+[View Project →](https://github.com/mikeclinedesign/retail-store-analysis)
 
 **Retail Product Performance Analysis**
 Analyzed 13,000+ products across 15 locations to identify product
