@@ -17,7 +17,7 @@ performance, forecast future sales, and develop KPI reporting.
 Analyzed 13,000+ products across 15 locations to identify product
 performance trends, distribution gaps, and expansion opportunities.
 
-[View Project →](YOUR-REPOSITORY-LINK)
+[View Project →](https://github.com/mikeclinedesign/retail-product-performance-analysis)
 
 ### 🔗 Connect
 [Tableau Public](YOUR-TABLEAU-LINK) • [LinkedIn](YOUR-LINKEDIN-LINK)
